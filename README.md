@@ -1,5 +1,9 @@
 # React + Vite
 
+This is a todo project that implements firstore authentication and use of its firestore database to store user data.
+
+website: https://todo-auth-chi.vercel.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
